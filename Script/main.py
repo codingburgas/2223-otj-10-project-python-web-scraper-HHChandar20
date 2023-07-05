@@ -4,7 +4,7 @@ import re
 from PIL import Image
 from bs4 import BeautifulSoup
 import os
-clear = lambda: os.system('cls')
+clear = lambda: os.system('cls') #Windows
 
 
 while True:
